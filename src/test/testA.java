@@ -18,6 +18,10 @@ public class testA {
 		System.out.println("method04");
 	}
 	
+	public static void method05() {
+		System.out.println("method04");
+	}
+	
 	
 	 public static void main(String[] args) {
 		 
