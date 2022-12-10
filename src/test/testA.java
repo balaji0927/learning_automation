@@ -6,12 +6,17 @@ public class testA {
 		System.out.println("method01");
 	}
 	
+	public static void method02() {
+		System.out.println("method01");
+	}
+	
 	
 	 public static void main(String[] args) {
 		 
 		System.out.println("First Project");
 		
 		method01();
+		method02();
 	}
 
 }
