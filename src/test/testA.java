@@ -7,12 +7,13 @@ public class testA {
 	}
 	
 	public static void method02() {
-		System.out.println("method01");
+		System.out.println("method02");
 	}
 	
 	public static void method03() {
-		System.out.println("method01");
+		System.out.println("method03");
 	}
+	
 	
 	 public static void main(String[] args) {
 		 
