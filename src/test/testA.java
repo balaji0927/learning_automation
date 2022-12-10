@@ -14,6 +14,10 @@ public class testA {
 		System.out.println("method03");
 	}
 	
+	public static void method04() {
+		System.out.println("method04");
+	}
+	
 	
 	 public static void main(String[] args) {
 		 
@@ -22,6 +26,7 @@ public class testA {
 		method01();
 		method02();
 		method03();
+		method04();
 	}
 
 }
