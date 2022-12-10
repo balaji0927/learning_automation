@@ -10,6 +10,9 @@ public class testA {
 		System.out.println("method01");
 	}
 	
+	public static void method03() {
+		System.out.println("method01");
+	}
 	
 	 public static void main(String[] args) {
 		 
@@ -17,6 +20,7 @@ public class testA {
 		
 		method01();
 		method02();
+		method03();
 	}
 
 }
