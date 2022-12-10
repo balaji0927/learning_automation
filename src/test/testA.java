@@ -32,6 +32,7 @@ public class testA {
 		method03();
 		method04();
 		method05();
+		method05();
 
 	}
 
