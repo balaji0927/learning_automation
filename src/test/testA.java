@@ -25,6 +25,10 @@ public class testA {
 	public static void method06() {
 		System.out.println("method06");
 	}
+	public static void method06() {
+		System.out.println("method07");
+		
+	}
 	
 	
 	 public static void main(String[] args) {
