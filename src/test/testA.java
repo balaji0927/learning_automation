@@ -20,6 +20,10 @@ public class testA {
 	
 	public static void method05() {
 		System.out.println("method04");
+	} 
+	
+	public static void method06() {
+		System.out.println("method06");
 	}
 	public static void method06() {
 		System.out.println("method07");
